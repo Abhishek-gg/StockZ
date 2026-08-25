@@ -1,0 +1,11 @@
+python-dotenv
+kafka-python
+requests
+loguru
+pyspark==3.5.*
+psycopg2-binary
+pandas
+pyarrow
+pytest
+pytest-mock
+jsonschema
